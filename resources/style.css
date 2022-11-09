@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+
+}
+
+header a {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
